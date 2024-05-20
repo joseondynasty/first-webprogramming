@@ -1,7 +1,4 @@
 # first-webprogramming
-## dimigo
-
-뷁
 
 * *문서문서*
     * ~~하위 문서~~ 
